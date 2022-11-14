@@ -1,6 +1,8 @@
 
 # Hey, I'm Kevin Klauer 🌱🙌
 
+**`💾 talk data to me`**
+
 I am a husband, cat dad, studied Business Informatics and currently work as a Solution Expert | DevOps Engineer at [PlanB. GmbH](https://github.com/PlanBGmbH) 
 
 ## 🦺 Languages & Tools
